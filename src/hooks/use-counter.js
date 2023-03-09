@@ -15,3 +15,5 @@ const useCounter = () => {
 };
 
 export default useCounter;
+
+// Side note: this is just a equivalent of vanila javaScript functions xD
